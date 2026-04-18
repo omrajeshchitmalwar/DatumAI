@@ -1,4 +1,4 @@
-# 📊 Data Analyst Co-Pilot
+# 📊 DatumAI
 
 > Upload any dataset. Ask questions in plain English. Get SQL queries, Python analysis, visualizations, and insights — powered by a local LLM. **100% free, 100% local, zero cloud dependencies.**
 
