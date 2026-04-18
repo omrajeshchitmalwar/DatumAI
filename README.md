@@ -9,6 +9,9 @@
 
 ---
 
+<img width="1854" height="941" alt="Screenshot from 2026-04-19 01-12-50" src="https://github.com/user-attachments/assets/a5d312b1-13c7-45b1-bbc9-eba17c04d272" />
+
+
 ## ✨ What it does
 
 Upload a CSV, Excel, or JSON file and ask natural language questions like:
