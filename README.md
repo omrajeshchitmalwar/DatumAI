@@ -2,7 +2,7 @@
 
 > Upload any dataset. Ask questions in plain English. Get SQL queries, Python analysis, visualizations, and insights — powered by a local LLM. **100% free, 100% local, zero cloud dependencies.**
 
-![Python](https://img.shields.io/badge/python-3.11-blue)
+![Python](https://img.shields.io/badge/python-3.13-blue)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.35-red)
 ![DuckDB](https://img.shields.io/badge/duckdb-0.10-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
