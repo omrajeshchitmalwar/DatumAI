@@ -103,6 +103,11 @@ Open `http://localhost:8501` in your browser.
 
 ---
 
+<img width="1854" height="941" alt="Screenshot from 2026-04-18 14-22-42" src="https://github.com/user-attachments/assets/bce3d63e-eea7-4394-99de-2a7584aef0fa" />
+
+<img width="1854" height="941" alt="Screenshot from 2026-04-19 01-12-41" src="https://github.com/user-attachments/assets/8cdb17f2-cc79-4bc5-aa84-15600135cefb" />
+
+
 ## 📁 Project structure
 
 ```
